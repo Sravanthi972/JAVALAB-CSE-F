@@ -21,6 +21,3 @@ public class InsertSubstring {
 ```
 # OUTPUT
 <img width="289" height="58" alt="1 ADD OUTPUT" src="https://github.com/user-attachments/assets/cf3d849f-57e2-4976-aff5-9cc7d1469b06" />
-
-
-
